@@ -38,7 +38,7 @@
 讲稿：正如这个三体问题一样，他进入了一种混沌状态，不再具有数学可解释性，任意微小的变化都会经过累积而产生巨大的误差，即除非你可以给一个无限小精度的输入给大脑，否则大脑总会将误差放大到无限大，那么换言之，每一个输入在大脑中都会产生无限的可能，这种不可预言性的产生是不是就是自由意志开始产生的开端呢？有人会怀疑，万一不是因为不可预言，而是因为我们的能力不够呢？
 
 <img src="Discussion-on-whether-people-have-free-will-\img\3.jpg" alt="3" style="zoom:67%;" />
-<img src='imgs/3.jpg' alt="3" style='zoom: 67%'>
+<img src='img/3.jpg' alt="3" style='zoom: 67%'>
 
 ![6](Discussion-on-whether-people-have-free-will-\img\6.jpg)
 
